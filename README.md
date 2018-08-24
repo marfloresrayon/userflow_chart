@@ -84,3 +84,27 @@ para iOS y Android que permite a los usuarios mejorar fotos y aplicar filtros di
 ![User flow](img/flow.jpeg)
 
 ![Flow chart](img/flowC.jpeg)
+
+### Aprendizajes
+
+* Ya que ambas herramientas nos ayudarán a comunicarnos con el equipo de desarrollo la claridad    es primordial, por esto es importante prestar atención a la simbología usada para representar    los diferentes elementos del user flow y el flow chart, de manera que cada elemento se           diferencie, así como la acción que lleva a cabo. Lecturas al respecto: 
+
+[Journey maps and user flows](https://medium.com/sketch-app-sources/user-journey-maps-or-user-flows-what-to-do-first-48e825e73aa8)
+
+[UI flows](https://signalvnoise.com/posts/1926-a-shorthand-for-designing-ui-flows)
+
+[Smooth UX](https://www.uxpin.com/studio/blog/creating-perfect-user-flows-for-smooth-ux/)
+
+[Interaction flows](https://uxplanet.org/an-introduction-to-interaction-flows-a4f783402529)
+
+[Site flows and user flows](http://uxmovement.com/wireframes/site-flows-vs-user-flows-when-to-use-which/)
+
+[UX Glossary](https://uxplanet.org/ux-glossary-task-flows-user-flows-flowcharts-and-some-new-ish-stuff-2321044d837d)
+
+[User flow](https://uxknowledgebase.com/user-flow-496e3187842)
+
+* Al realizar este ejercicio pude comprender la importancia de la investigación y el análisis de   la información obtenida para generar un flujo de usuario que resulte intuitivo y eficaz, lo      esencial que resulta conocer a nuestros usuarios, delimitarlos, no podemos diseñar para todos.
+
+* Llama mi atención las herramientas que ofrece esta aplicación y la forma en la que se llevó a    cabo la arquitectura de la información dentro de la interfaz, lo cual se refleja en un flujo     intuitivo, que no genera frustración. 
+
+* Disfruté mucho realizar este ejercicio, fue un proceso muy enriquecedor que podré poner en       práctica para aprender de los pain y gain points de cada aplicación que use en el futuro. 
