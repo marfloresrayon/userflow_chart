@@ -82,3 +82,5 @@ Snapseed es una aplicación de edición de fotografías producida por Nik Softwa
 para iOS y Android que permite a los usuarios mejorar fotos y aplicar filtros digitales.
 
 ![User flow](img/flow.jpeg)
+
+![Flow chart](img/flowC.jpeg)
