@@ -81,3 +81,4 @@
 Snapseed es una aplicación de edición de fotografías producida por Nik Software, ahora propiedad de Google, 
 para iOS y Android que permite a los usuarios mejorar fotos y aplicar filtros digitales.
 
+![User flow](img/flow.jpeg)
